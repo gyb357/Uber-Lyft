@@ -19,8 +19,8 @@ Dataset: https://www.kaggle.com/brllrb/uber-and-lyft-dataset-boston-ma
 
 ## Clone and Install Librarires:
 ```bash
-git clone <https://github.com/gyb357/Uber-Lyft.gitl>  
-cd <repository_directory>  
+git clone https://github.com/gyb357/Uber-Lyft.git
+cd 'your repository directory'
 ```
 
 ```bash
