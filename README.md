@@ -30,6 +30,15 @@ pip install -r requirements.txt
 
 
 
+## Run codes
+
+Once you've installed all the libraries, you can run main.py sequentially. Some commented code can be uncommented and run. 
+
+The trained model can be tested in test.py.
+
+
+
+
 ## Contributions
 This project was a collaborative effort among university teammates. Contributions included data preprocessing, feature engineering, model building, and presentation of results.
 
