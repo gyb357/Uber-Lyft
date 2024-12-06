@@ -14,6 +14,8 @@ To successfully run the code in this repository, you need to set up your environ
 
 ![](image/dataset-cover.png)
 
+This dataset contains Boston Lyft & Uber prices from November to December 2018 and various columns including weather, vehicle type, distance traveled, pickup location and destination, etc.
+
 Dataset: https://www.kaggle.com/brllrb/uber-and-lyft-dataset-boston-ma
 
 
