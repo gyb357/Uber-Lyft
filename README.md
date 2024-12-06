@@ -12,6 +12,8 @@ This repository contains all the necessary code and resources for analyzing, vis
 
 To successfully run the code in this repository, you need to set up your environment with the required dependencies. The dependencies are listed in the ```requirements.txt``` file.
 
+![](image/dataset-cover.png)
+
 Dataset: https://www.kaggle.com/brllrb/uber-and-lyft-dataset-boston-ma
 
 
