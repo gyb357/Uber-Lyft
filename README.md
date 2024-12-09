@@ -10,6 +10,8 @@ This repository contains all the necessary code and resources for analyzing, vis
 
 ## Getting Started
 
+**This work is based on the ipykernel**
+
 To successfully run the code in this repository, you need to set up your environment with the required dependencies. The dependencies are listed in the ```requirements.txt``` file.
 
 ![](image/dataset-cover.png)
